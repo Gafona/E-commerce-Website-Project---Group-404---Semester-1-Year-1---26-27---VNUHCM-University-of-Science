@@ -6,7 +6,7 @@ Tài liệu này là trang điều hướng đến các nhóm prompt của dự 
 - Nội dung prompt trong từng tệp được trích nguyên văn từ bản lưu trữ tổng hợp; không chủ động viết lại hoặc rút gọn prompt.
 - Mã nguồn tham chiếu như `T1#16` được giữ để đối chiếu với Google Docs gốc.
 - Các prompt SportDNA dạng đặc tả/handoff dài được lưu riêng trong phụ lục.
-- Bản tổng hợp đầy đủ vẫn được giữ tại [PROMPTS-ARCHIVE.md](../PROMPTS-ARCHIVE.md).
+- Bản tổng hợp toàn bộ nội dung phân loại vẫn được giữ tại [PROMPTS-ARCHIVE.md](../PROMPTS-ARCHIVE.md).
 
 ## Danh mục chức năng
 
