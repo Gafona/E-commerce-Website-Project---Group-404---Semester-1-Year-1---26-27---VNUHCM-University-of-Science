@@ -2190,7 +2190,7 @@ check lại tên và mật khẩu admin là gì vậy
 
 ### <a id="_xg8kwu20mipd"></a>T11\#3
 
-đổi mật khẩu và mail này: admin@boai\.vn thành 000000
+đổi mật khẩu và mail này: admin@boai\.vn thành [đã lược bỏ mật khẩu demo]
 
 ### <a id="_salsab6mlpjb"></a>T11\#5
 
