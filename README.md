@@ -120,6 +120,8 @@ Thông tin phiên bản và các thư viện phụ thuộc được quản lý t
 
 ### Các bước thực hiện
 
+Các lệnh `dev`, `build`, `start` và Payload CLI chạy qua script Node để tránh cú pháp gán biến môi trường riêng của Unix shell, giúp tương thích hơn với Windows PowerShell/CMD. Có thể chạy `pnpm typecheck` để kiểm tra TypeScript độc lập.
+
 ```bash
 # 1. Clone repository
 git clone https://github.com/Gafona/E-commerce-Website-Project---Group-404---Semester-1-Year-1---26-27---VNUHCM-University-of-Science.git
