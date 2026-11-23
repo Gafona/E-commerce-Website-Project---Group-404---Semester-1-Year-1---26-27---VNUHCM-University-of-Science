@@ -12,7 +12,7 @@ check lại tên và mật khẩu admin là gì vậy
 
 ### <a id="_salsab6mlpjb"></a>T11\#5
 
-đổi lại mật khẩu admin@boai\.vn thành 00000000
+đổi lại mật khẩu admin@boai\.vn thành [REDACTED]
 
 ### <a id="_zho3rjtm20vl"></a>T13\#7
 
