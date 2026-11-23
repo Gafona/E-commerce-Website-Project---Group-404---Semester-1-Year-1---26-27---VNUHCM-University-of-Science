@@ -23,7 +23,9 @@ const nextConfig: NextConfig = {
     loader: 'custom',
     loaderFile: './figma-image-loader.ts',
   },
-  // Don't block publishing or preview deploys on errors if the emitted JS is valid
+  // Temporary build bypass: this does not replace a TypeScript check.
+  // Run `pnpm typecheck` before merging/releasing; remove this bypass after
+  // the existing TypeScript errors have been fixed.
   typescript: {
     ignoreBuildErrors: true,
   },
