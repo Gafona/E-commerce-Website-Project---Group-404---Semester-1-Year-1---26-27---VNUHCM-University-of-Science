@@ -24,7 +24,7 @@ Tài liệu này tóm tắt các phân hệ chính được mô tả trong READM
 - Nội dung đánh giá và mô phỏng cho các môn thể thao, trong đó có cầu lông và bóng đá.
 - Các nội dung về công thức, trọng số và mức độ phù hợp thiết bị cần được hiểu theo đặc tả đã xác nhận; không suy diễn thành cam kết chuyên môn.
 
-Tài liệu chi tiết: [SportDNA brief](./sportdna-brief.md) và [SportDNA AI prompts](./sportdna-ai-prompts.md).
+Tài liệu tham khảo: [SportDNA brief](./sportdna-brief.md) là snapshot cũ, cần đối chiếu với mã nguồn hiện tại. Kho prompt theo chức năng nằm tại [mục lục prompt](./prompts/README.md), phần yêu cầu bàn giao SportDNA mới hơn nằm trong [Phụ lục A](./prompts/phu-luc-a-sportdna-handoff.md). [SportDNA AI prompts](./sportdna-ai-prompts.md) là bộ prompt chuyên biệt ở giai đoạn trước.
 
 ## 4. Cộng đồng
 - Hồ sơ cộng đồng.
