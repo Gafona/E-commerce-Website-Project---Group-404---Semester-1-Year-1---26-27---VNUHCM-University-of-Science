@@ -208,7 +208,7 @@ Phần thanh toán bị lỗi không thanh toán được hãy kiểm tra lại
 
 Ở phần mục cộng đồng 1 bài viết khi đăng lên thì không thể xóa được, khi muốn sửa nội dung bài đăng thì nó nhảy lên lại chỗ bài viết mới để sửa lại nội dung thì ảnh hưởng đến trải nghiệm sử dụng\. Bên cạnh các tên trên bài viết thì thêm nút theo dõi để có thể theo dõi trực tiếp ngay tại bài đăng còn khi bấm vào tên thì vào trang cá nhân của họ
 
-Mọi sự thay đổi và quyết định đều do bạn quản lí dựa trên tiêu chí tối ưu nhất có thể mà k cần qua trung gian hỏi tôi hay admin Nếu muốn thử các chứng năng trên web thì có thể vào tài khoản admin để thử admin@boai\.vn pass:00000000 sau khi làm xong thì gửi tui check list những gì đã làm và tối ưu, mọi thứ tôi không đề cập mà bạn thấy nó hợp lý và tối ưu hơn thì bạn có quyền chỉnh sửa mà không cần hỏi qua ý kiến chung gian của tôi
+Mọi sự thay đổi và quyết định đều do bạn quản lí dựa trên tiêu chí tối ưu nhất có thể mà k cần qua trung gian hỏi tôi hay admin Nếu muốn thử các chứng năng trên web thì có thể vào tài khoản admin để thử admin@boai\.vn pass:[đã lược bỏ mật khẩu demo] sau khi làm xong thì gửi tui check list những gì đã làm và tối ưu, mọi thứ tôi không đề cập mà bạn thấy nó hợp lý và tối ưu hơn thì bạn có quyền chỉnh sửa mà không cần hỏi qua ý kiến chung gian của tôi
 
 chức năng tạm dừng hoạt động khi không đủ thông tin đã hoạt động mà khi nhập thôn tin mới thì lưu không được á
 
@@ -2194,7 +2194,7 @@ check lại tên và mật khẩu admin là gì vậy
 
 ### <a id="_salsab6mlpjb"></a>T11\#5
 
-đổi lại mật khẩu admin@boai\.vn thành 00000000
+đổi lại mật khẩu admin@boai\.vn thành [đã lược bỏ mật khẩu demo]
 
 ### <a id="_zho3rjtm20vl"></a>T13\#7
 
@@ -2288,7 +2288,7 @@ hãy viết cho tôi phần báo cáo bên admin và seller của web này bên 
 
 ### <a id="_y6b2af9jxzzf"></a>T22
 
-Website: https://boai\.figma\.site Tài khoản admin: test@boai\.vn \(Mật khẩu: 00000000\) Mã nguồn / bản thiết kế \(Figma Make\): https://www\.figma\.com/make/gV5zMiRHh1fnZgsJavLAoY/%C4%90%E1%BB%93\-%C3%A1n\-n%E1%BB%ADa\-k%E1%BB%B3\-\-\-nh%C3%B3m\-404?t=WLYU8mCH0a9Rbvna\-1 Hãy truy cập vào những trang web này và viết báo cáo cho tôi về 2 chủ đề sau đây:
+Website: https://boai\.figma\.site Tài khoản admin: test@boai\.vn \(Mật khẩu: [đã lược bỏ mật khẩu demo]\) Mã nguồn / bản thiết kế \(Figma Make\): https://www\.figma\.com/make/gV5zMiRHh1fnZgsJavLAoY/%C4%90%E1%BB%93\-%C3%A1n\-n%E1%BB%ADa\-k%E1%BB%B3\-\-\-nh%C3%B3m\-404?t=WLYU8mCH0a9Rbvna\-1 Hãy truy cập vào những trang web này và viết báo cáo cho tôi về 2 chủ đề sau đây:
 
 Đơn hàng & hậu mãi \(Gồm tra cứu, đơn của tôi, hủy, chuyển khoản cho shop, đổi trả, hạng thành viên, kiểm tra mã xác thực \(/xac\-thuc\)\)\.
 
