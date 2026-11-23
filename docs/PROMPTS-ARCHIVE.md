@@ -1,6 +1,6 @@
 <a id="_p9s4huhp7b8v"></a>Phân loại prompt theo mục chức năng — Dự án BOAI
 
-*Bản đầy đủ nguyên văn\. Nguồn: Google Doc gồm 23 tab, 213 prompt/đoạn bạn đã gắn \[n\]\. Ngày lập: 23/11/2026\.*
+*Bản lưu trữ tổng hợp từ nội dung nguồn\. Các prompt được giữ nguyên, ngoại trừ thông tin xác thực demo đã được lược bỏ để bảo mật\. Nguồn: Google Doc gồm 23 tab, 213 prompt/đoạn bạn đã gắn \\[n\\]\. Ngày lập: 23/11/2026\.*
 
 # <a id="_nlsle66ilzri"></a>0\. Cách đọc tài liệu này
 
