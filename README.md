@@ -162,7 +162,8 @@ Sau khi khởi động thành công, mở địa chỉ local được hiển th�
 | [docs/sportdna-ai-prompts.md](./docs/sportdna-ai-prompts.md) | Prompt và tài liệu phục vụ quá trình phát triển SportDNA |
 | [docs/prompts/README.md](./docs/prompts/README.md) | Mục lục prompt BOAI, chia thành từng nhóm chức năng và tệp riêng để tra cứu |
 | [docs/PROMPTS-ARCHIVE.md](./docs/PROMPTS-ARCHIVE.md) | Bản lưu trữ prompt tổng hợp để đối chiếu (đã lược thông tin xác thực demo) |
-| [docs/TEAM.md](./docs/TEAM.md) | Danh sách thành viên và phân công nhóm (cần hoàn thiện thông tin) |
+| [docs/REPORT-CHAPTERS-3-4.md](./docs/REPORT-CHAPTERS-3-4.md) | Nội dung biên soạn để thay thế Chương 3 và Chương 4 trong báo cáo học phần |
+| [docs/TEAM.md](./docs/TEAM.md) | Danh sách bốn thành viên và thông tin liên hệ nhóm (cân nhắc ẩn số điện thoại nếu repository công khai) |
 | [src/](./src) | Mã nguồn ứng dụng |
 | [tests/](./tests) | Các tệp kiểm thử hiện có |
 
