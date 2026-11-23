@@ -1,8 +1,8 @@
 # SportDNA — Tài liệu tổng quan để thiết kế bộ câu hỏi
 
-Tài liệu này mô tả SportDNA đúng như code hiện tại trong repo (BOAI, Next.js + Payload CMS).
-Mục đích: gửi cho AI/người bên ngoài để thiết kế **bộ câu hỏi và tình huống** đủ phủ mọi chức năng của SportDNA.
-Mọi con số có ghi **GIẢ ĐỊNH** là giá trị tạm, chưa có spec chốt; được phép đề xuất lại.
+> **Lưu ý về phiên bản:** Đây là tài liệu snapshot được biên soạn từ một trạng thái mã nguồn trước đó. Một số mô tả bên dưới về môn thể thao, chế độ đánh giá, engine và phạm vi cầu lông đôi/bóng đá có thể không còn phản ánh phiên bản hiện tại. Không sử dụng riêng tài liệu này làm nguồn xác nhận trạng thái triển khai hoặc đặc tả chuẩn mới nhất. Hãy đối chiếu mã nguồn hiện tại và [kho prompt BOAI](./prompts/README.md), đặc biệt [Phụ lục A — SportDNA handoff](./prompts/phu-luc-a-sportdna-handoff.md), trước khi cập nhật nội dung hoặc đưa số liệu vào báo cáo.
+
+Tài liệu này mô tả một phiên bản SportDNA trước đó trong repo BOAI (Next.js + Payload CMS). Nội dung chi tiết phía dưới được giữ lại làm tài liệu tham khảo lịch sử; mọi con số, công thức và trạng thái triển khai cần được xác minh lại với mã nguồn hiện tại.
 
 ---
 
