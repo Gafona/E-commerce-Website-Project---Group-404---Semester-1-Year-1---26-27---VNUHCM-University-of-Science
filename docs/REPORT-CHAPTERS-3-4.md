@@ -44,7 +44,7 @@ Việc lưu prompt trên GitHub giúp nhóm quản lý lịch sử yêu cầu, t
 
 #### 4.1.1. Tiêu chí đánh giá mức độ hoàn thành công việc
 
-Để việc đánh giá thống nhất, nhóm sử dụng các tiêu chí tham khảo sau. Điểm số cuối cùng do các thành viên thống nhất dựa trên khối lượng công việc, chất lượng sản phẩm và minh chứng thực tế.
+Để việc đánh giá thống nhất, nhóm có thể sử dụng bộ tiêu chí tham khảo sau. Các tỷ trọng dưới đây là đề xuất biên tập, cần được nhóm xác nhận hoặc điều chỉnh trước khi đưa vào bản báo cáo nộp. Điểm số cuối cùng do các thành viên thống nhất dựa trên khối lượng công việc, chất lượng sản phẩm và minh chứng thực tế.
 
 | Tiêu chí | Tỷ trọng | Căn cứ đánh giá |
 |---|---:|---|
