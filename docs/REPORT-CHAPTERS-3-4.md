@@ -63,16 +63,11 @@ Việc lưu prompt trên GitHub giúp nhóm quản lý lịch sử yêu cầu, t
 | 3 | 26127270 | Nguyễn Văn Kim Long |
 | 4 | 26127141 | Hoàng Anh Hùng |
 
-#### 4.1.3. Bảng phân công chi tiết và điểm đánh giá
+#### 4.1.3. Bảng phân công chi tiết (hoàn thiện trong bản báo cáo nộp)
 
-| STT | Họ và tên | Nhiệm vụ phụ trách | Sản phẩm/minh chứng | Mức độ hoàn thành | Điểm (100) |
-|---:|---|---|---|---|---:|
-| 1 | Mai Quốc Thắng | Nhóm xác nhận theo phân công thực tế | Bổ sung đường dẫn commit, pull request, tài liệu hoặc màn hình | Nhóm đánh giá | |
-| 2 | Nguyễn Hải Đăng | Nhóm xác nhận theo phân công thực tế | Bổ sung đường dẫn commit, pull request, tài liệu hoặc màn hình | Nhóm đánh giá | |
-| 3 | Nguyễn Văn Kim Long | Nhóm xác nhận theo phân công thực tế | Bổ sung đường dẫn commit, pull request, tài liệu hoặc màn hình | Nhóm đánh giá | |
-| 4 | Hoàng Anh Hùng | Nhóm xác nhận theo phân công thực tế | Bổ sung đường dẫn commit, pull request, tài liệu hoặc màn hình | Nhóm đánh giá | |
+Bảng phân công chi tiết cần được hoàn thiện trong bản báo cáo chính thức dựa trên phân công đã thống nhất và minh chứng thực tế. **Điểm đánh giá cá nhân không được lưu trong repository GitHub công khai**; nhóm điền điểm trong bản báo cáo nội bộ/nộp giảng viên theo yêu cầu học phần.
 
-**Lưu ý:** Danh sách thành viên đã được cập nhật theo thông tin nhóm cung cấp. Nhiệm vụ, minh chứng, mức độ hoàn thành và điểm số chưa được tự gán vì cần căn cứ vào phân công và đóng góp thực tế của từng thành viên. Nhóm cần hoàn thiện các cột này trước khi nộp báo cáo.
+Danh sách bốn thành viên ở mục 4.1.2 đã được cập nhật theo thông tin nhóm cung cấp. Không tự gán nhiệm vụ hoặc điểm số khi chưa có xác nhận của nhóm.
 
 ### 4.2. Tài liệu tham khảo
 
