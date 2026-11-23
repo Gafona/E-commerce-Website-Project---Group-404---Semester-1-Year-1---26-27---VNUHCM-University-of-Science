@@ -26,6 +26,10 @@ Tài liệu này là trang điều hướng đến các nhóm prompt của dự 
 | 12 | Tài khoản admin, kiểm duyệt, nội dung website | [12-quan-tri-va-kiem-duyet.md](./12-quan-tri-va-kiem-duyet.md) |
 | 13 | Thông báo và tin nhắn | [13-thong-bao-va-tin-nhan.md](./13-thong-bao-va-tin-nhan.md) |
 
+## Nhóm nội dung ngoài chức năng sản phẩm
+
+- [Nhóm 14 — Báo cáo học thuật, hỏi đáp kỹ thuật, phản hồi tự động và prompt trống](./14-noi-dung-khong-thuoc-chuc-nang.md)
+
 ## Tài liệu bổ trợ
 
 - [Phân tách ý của các prompt nhiều hạng mục](./15-tach-y-prompt.md)
