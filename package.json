@@ -4,13 +4,14 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "NODE_OPTIONS=--no-deprecation next dev --port ${PORT:-3000} --hostname 0.0.0.0",
-    "build": "NODE_OPTIONS=--no-deprecation payload build",
-    "start": "NODE_OPTIONS=--no-deprecation next start",
+    "dev": "node scripts/run-project.mjs dev",
+    "build": "node scripts/run-project.mjs build",
+    "start": "node scripts/run-project.mjs start",
     "format": "oxfmt",
-    "generate:importmap": "NODE_OPTIONS=--no-deprecation payload generate:importmap",
-    "generate:types": "NODE_OPTIONS=--no-deprecation payload generate:types",
-    "payload": "NODE_OPTIONS=--no-deprecation payload"
+    "generate:importmap": "node scripts/run-project.mjs generate:importmap",
+    "generate:types": "node scripts/run-project.mjs generate:types",
+    "payload": "node scripts/run-project.mjs payload",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@payloadcms/email-nodemailer": "4.0.0-beta.3",
