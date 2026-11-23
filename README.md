@@ -158,6 +158,7 @@ Sau khi khởi động thành công, mở địa chỉ local được hiển th�
 |---|---|
 | [docs/FEATURES.md](./docs/FEATURES.md) | Danh mục chức năng và phạm vi các phân hệ BOAI |\n| [docs/ARCHITECTURE.md](./docs/ARCHITECTURE.md) | Tổng quan kiến trúc, cấu trúc mã nguồn và cấu hình Payload CMS |\n| [docs/sportdna-brief.md](./docs/sportdna-brief.md) | Tổng quan SportDNA, cấu trúc đánh giá và các luồng chức năng |
 | [docs/sportdna-ai-prompts.md](./docs/sportdna-ai-prompts.md) | Prompt và tài liệu phục vụ quá trình phát triển SportDNA |
+| [docs/PROMPTS-ARCHIVE.md](./docs/PROMPTS-ARCHIVE.md) | Kho lưu trữ đầy đủ prompt BOAI, phân loại theo 23 tab và các nhóm chức năng |
 | [docs/TEAM.md](./docs/TEAM.md) | Danh sách thành viên và phân công nhóm (cần hoàn thiện thông tin) |
 | [src/](./src) | Mã nguồn ứng dụng |
 | [tests/](./tests) | Các tệp kiểm thử hiện có |
