@@ -1,5 +1,8 @@
 # SportDNA — prompt nhờ AI ngoài
 
+> **Lưu ý:** Đây là bộ prompt chuyên biệt phục vụ việc rà soát/hiệu chuẩn SportDNA ở một giai đoạn phát triển. Kho prompt BOAI đầy đủ và được phân loại theo chức năng nằm tại [mục lục prompt](./prompts/README.md); các yêu cầu bàn giao SportDNA mới hơn được tập hợp tại [Phụ lục A — SportDNA handoff](./prompts/phu-luc-a-sportdna-handoff.md). Trước khi áp dụng các prompt bên dưới, cần đối chiếu lại tên file, kiểu dữ liệu và cấu trúc mã nguồn hiện tại.
+
+
 Ba phần nặng nhất về chuyên môn đã có bản v1 chạy được trong code. Dùng các prompt dưới đây để nhờ AI ngoài
 soát lại và hiệu chuẩn, rồi dán kết quả trả về cho Figma Make để thay hệ số. Mỗi prompt ghi rõ cần đính kèm file nào.
 
