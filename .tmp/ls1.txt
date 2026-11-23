@@ -1,0 +1,249 @@
+{
+  "name": "figma-make-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "NODE_OPTIONS=--no-deprecation next dev --port ${PORT:-3000} --hostname 0.0.0.0",
+    "build": "NODE_OPTIONS=--no-deprecation payload build",
+    "start": "NODE_OPTIONS=--no-deprecation next start",
+    "format": "oxfmt",
+    "generate:importmap": "NODE_OPTIONS=--no-deprecation payload generate:importmap",
+    "generate:types": "NODE_OPTIONS=--no-deprecation payload generate:types",
+    "payload": "NODE_OPTIONS=--no-deprecation payload"
+  },
+  "dependencies": {
+    "@payloadcms/figma": "1.0.0-beta.1",
+    "@payloadcms/next": "4.0.0-beta.3",
+    "@payloadcms/plugin-cloud-storage": "4.0.0-beta.3",
+    "@payloadcms/plugin-mcp": "4.0.0-beta.3",
+    "@payloadcms/richtext-lexical": "4.0.0-beta.3",
+    "@payloadcms/translations": "4.0.0-beta.3",
+    "@payloadcms/ui": "4.0.0-beta.3",
+    "graphql": "^16.8.1",
+    "html-react-parser": "^5.2.10",
+    "lucide-react": "^1.61.0",
+    "monaco-editor": "0.55.1",
+    "next": "16.4.0",
+    "payload": "4.0.0-beta.3",
+    "react": "19.2.1",
+    "react-dom": "19.2.1",
+    "sharp": "^0.35.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "oxfmt": "^0.2.0",
+    "postcss": "^8.5.0",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.7.0"
+  },
+  "engines": {
+    "node": ">=20.9.0",
+    "pnpm": "^9 || ^10"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "sharp",
+      "esbuild",
+2e25c58 Add public shop pages with trust scores
+0f6bb5a Add account avatar upload and listed products
+20e2bfc Link seller brand to home page
+a0f48f1 Add custom occasion name for other events
+1c7e263 Fix event typography card layout
+babe703 Fix event typography spacing and font select alignment
+e5f34b9 Refine event typography controls
+e1c7a95 Fix overlapping event typography controls
+0e397b7 Update SportDNA prototype to v1.3.4 spec
+bfdb523 prompt: 0
+src/app/(frontend)/.figma/make/[asset]/route.ts
+src/app/(frontend)/account-state-actions.ts
+src/app/(frontend)/api/app-auth/login/route.ts
+src/app/(frontend)/auth-actions.ts
+src/app/(frontend)/cai-dat/SettingsView.tsx
+src/app/(frontend)/cai-dat/page.tsx
+src/app/(frontend)/components/AccountMenu.tsx
+src/app/(frontend)/components/AuthForm.tsx
+src/app/(frontend)/components/AuthUnavailable.tsx
+src/app/(frontend)/components/ExploreMenu.tsx
+src/app/(frontend)/components/Logo.tsx
+src/app/(frontend)/components/MatchBadge.tsx
+src/app/(frontend)/components/ProductComments.tsx
+src/app/(frontend)/components/ProductGallery.tsx
+src/app/(frontend)/components/ProductPurchase.tsx
+src/app/(frontend)/components/ProductVariantProvider.tsx
+src/app/(frontend)/components/ReviewForm.tsx
+src/app/(frontend)/components/SavedLists.tsx
+src/app/(frontend)/components/SearchBox.tsx
+src/app/(frontend)/components/ShopProvider.tsx
+src/app/(frontend)/components/SiteHeader.tsx
+src/app/(frontend)/components/Storefront.tsx
+src/app/(frontend)/components/ShopAvatar.tsx
+src/app/(frontend)/components/ShopSellerCard.tsx
+src/app/(frontend)/components/ProductResultCard.tsx
+src/app/(frontend)/cong-dong/Community.tsx
+src/app/(frontend)/cong-dong/CommunityAvatar.tsx
+src/app/(frontend)/cong-dong/CommunityMembers.tsx
+src/app/(frontend)/cong-dong/CommunityMessenger.tsx
+src/app/(frontend)/cong-dong/CommunitySocialHub.tsx
+src/app/(frontend)/cong-dong/ProductSearch.tsx
+src/app/(frontend)/cong-dong/SharePanel.tsx
+src/app/(frontend)/cong-dong/StoryRail.tsx
+src/app/(frontend)/cong-dong/actions.ts
+src/app/(frontend)/cong-dong/error.tsx
+src/app/(frontend)/cong-dong/loading.tsx
+src/app/(frontend)/cong-dong/page.tsx
+src/app/(frontend)/cong-dong/social-actions.ts
+src/app/(frontend)/custom-ao/JerseyStudio.tsx
+src/app/(frontend)/custom-ao/page.tsx
+src/app/(frontend)/dang-ky/page.tsx
+src/app/(frontend)/dang-ky-ban-hang/SellerApplicationForm.tsx
+src/app/(frontend)/dang-ky-ban-hang/actions.ts
+src/app/(frontend)/dang-ky-ban-hang/page.tsx
+src/app/(frontend)/dang-nhap/page.tsx
+src/app/(frontend)/design-actions.ts
+src/app/(frontend)/don-hang/CancelOrder.tsx
+src/app/(frontend)/don-hang/page.tsx
+src/app/(frontend)/giam-gia/SaleCatalog.tsx
+src/app/(frontend)/giam-gia/page.tsx
+src/app/(frontend)/gio-hang/CartView.tsx
+src/app/(frontend)/gio-hang/page.tsx
+src/app/(frontend)/kenh-ban-hang/SellerNav.tsx
+src/app/(frontend)/kenh-ban-hang/actions.ts
+src/app/(frontend)/kenh-ban-hang/cai-dat/SellerProfileForm.tsx
+src/app/(frontend)/kenh-ban-hang/cai-dat/page.tsx
+src/app/(frontend)/kenh-ban-hang/don-hang/page.tsx
+src/app/(frontend)/kenh-ban-hang/layout.tsx
+src/app/(frontend)/kenh-ban-hang/page.tsx
+src/app/(frontend)/kenh-ban-hang/quang-ba/PromotionForm.tsx
+src/app/(frontend)/kenh-ban-hang/quang-ba/page.tsx
+src/app/(frontend)/kenh-ban-hang/san-pham/ImagePicker.tsx
+src/app/(frontend)/kenh-ban-hang/san-pham/ProductForm.tsx
+src/app/(frontend)/kenh-ban-hang/san-pham/[id]/EditForm.tsx
+src/app/(frontend)/kenh-ban-hang/san-pham/[id]/page.tsx
+src/app/(frontend)/kenh-ban-hang/san-pham/page.tsx
+src/app/(frontend)/kenh-ban-hang/seller-lib.ts
+src/app/(frontend)/kenh-ban-hang/su-kien/DeleteEventButton.tsx
+src/app/(frontend)/kenh-ban-hang/su-kien/EventCalendar.tsx
+src/app/(frontend)/kenh-ban-hang/su-kien/EventForm.tsx
+src/app/(frontend)/kenh-ban-hang/su-kien/[id]/page.tsx
+src/app/(frontend)/kenh-ban-hang/su-kien/actions.ts
+src/app/(frontend)/kenh-ban-hang/su-kien/moi/page.tsx
+src/app/(frontend)/kenh-ban-hang/su-kien/page.tsx
+src/app/(frontend)/kenh-ban-hang/ton-kho/page.tsx
+src/app/(frontend)/layout.tsx
+src/app/(frontend)/not-found.tsx
+src/app/(frontend)/page.tsx
+src/app/(frontend)/san-pham/[slug]/page.tsx
+src/app/(frontend)/san-pham/comment-actions.ts
+src/app/(frontend)/shop-actions.ts
+src/app/(frontend)/so-sanh/page.tsx
+src/app/(frontend)/sportdna/ScenarioCourt.tsx
+src/app/(frontend)/sportdna/SportDnaQuiz.tsx
+src/app/(frontend)/sportdna/actions.ts
+src/app/(frontend)/sportdna/football/[[...slug]]/page.tsx
+src/app/(frontend)/sportdna/page.tsx
+src/app/(frontend)/sportdna/v133/_components/ConfigEditor.tsx
+src/app/(frontend)/sportdna/v133/_components/DnaNav.tsx
+src/app/(frontend)/sportdna/v133/_components/EquipmentTabs.tsx
+src/app/(frontend)/sportdna/v133/_components/FootballNotice.tsx
+src/app/(frontend)/sportdna/v133/_components/PostComposer.tsx
+src/app/(frontend)/sportdna/v133/_components/ProductListing.tsx
+src/app/(frontend)/sportdna/v133/_components/ProfileTabs.tsx
+src/app/(frontend)/sportdna/v133/_components/QuickFlow.tsx
+src/app/(frontend)/sportdna/v133/_components/ReputationCards.tsx
+src/app/(frontend)/sportdna/v133/_components/ReputationDetail.tsx
+src/app/(frontend)/sportdna/v133/_components/ReputationHistory.tsx
+src/app/(frontend)/sportdna/v133/_components/ScenarioCourt.tsx
+src/app/(frontend)/sportdna/v133/_components/SettingsPanel.tsx
+import path from "path"
+import { buildFigmaConfig } from "@payloadcms/figma"
+import { mcpPlugin } from "@payloadcms/plugin-mcp"
+import { en as adminLanguage } from "@payloadcms/translations/languages/en"
+import { fileURLToPath } from "url"
+import { Admins } from "./collections/Admins"
+import { Media } from "./collections/Media"
+import { Folders } from "./collections/Folders"
+import { Tags } from "./collections/Tags"
+import { Posts } from "./collections/Posts"
+import { Products } from "./collections/Products"
+import { Orders } from "./collections/Orders"
+import { Reviews } from "./collections/Reviews"
+import { ProductComments } from "./collections/ProductComments"
+import { Users } from "./collections/Users"
+import { JerseyDesigns } from "./collections/JerseyDesigns"
+import {
+  CommunityPosts,
+  CommunityComments,
+  CommunityLikes,
+  CommunityCommentReactions,
+  CommunityDemoShares,
+} from "./collections/Community"
+import { CommunityProfiles } from "./collections/CommunityProfiles"
+import { CommunityStories, CommunityConversations, CommunityMessages } from "./collections/CommunitySocial"
+import { Events } from "./collections/Events"
+import { SportAssessments } from "./collections/SportAssessments"
+import { CompetitionEvents } from "./collections/CompetitionEvents"
+import { UserAchievements } from "./collections/UserAchievements"
+
+const filename = fileURLToPath(import.meta.url)
+const dirname = path.dirname(filename)
+
+export default buildFigmaConfig({
+  admin: {
+    user: Admins.slug,
+    constrainWidth: true,
+    dashboard: {
+      widgets: [],
+      defaultLayout: [
+        { widgetSlug: "activity", width: "full" },
+        { widgetSlug: "collections", width: "full" },
+      ],
+    },
+    importMap: {
+      baseDir: path.resolve(dirname),
+    },
+  },
+  i18n: {
+    fallbackLanguage: "en",
+    supportedLanguages: { en: adminLanguage },
+  },
+  collections: [
+    Admins,
+    Users,
+    JerseyDesigns,
+    Media,
+    Folders,
+    Tags,
+    Posts,
+    Products,
+    Events,
+    Orders,
+    Reviews,
+    ProductComments,
+    CommunityProfiles,
+    CommunityStories,
+    CommunityConversations,
+    CommunityMessages,
+    CommunityPosts,
+    CommunityComments,
+    CommunityLikes,
+    CommunityCommentReactions,
+    CommunityDemoShares,
+    SportAssessments,
+    CompetitionEvents,
+    UserAchievements,
+  ],
+  localization: {
+    locales: [{ code: "en", label: "English" }],
+    fallback: true,
+    defaultLocale: "en",
+  },
+  typescript: {
+    outputFile: path.resolve(dirname, "payload-types.ts"),
+  },
+  plugins: [mcpPlugin({})],
+  figma: {},
+})
