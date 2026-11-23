@@ -8,7 +8,8 @@
 <p align="center">
   <a href="https://boai.figma.site">Website demo</a> ·
   <a href="https://www.figma.com/make/gV5zMiRHh1fnZgsJavLAoY">Figma Make workspace</a> ·
-  <a href="./docs">Project documentation</a>
+  <a href="./docs">Project documentation</a> ·
+  <a href="./docs/TEAM.md">Team</a>
 </p>
 
 ## Giới thiệu
@@ -157,6 +158,7 @@ Sau khi khởi động thành công, mở địa chỉ local được hiển th�
 |---|---|
 | [docs/sportdna-brief.md](./docs/sportdna-brief.md) | Tổng quan SportDNA, cấu trúc đánh giá và các luồng chức năng |
 | [docs/sportdna-ai-prompts.md](./docs/sportdna-ai-prompts.md) | Prompt và tài liệu phục vụ quá trình phát triển SportDNA |
+| [docs/TEAM.md](./docs/TEAM.md) | Danh sách thành viên và phân công nhóm (cần hoàn thiện thông tin) |
 | [src/](./src) | Mã nguồn ứng dụng |
 | [tests/](./tests) | Các tệp kiểm thử hiện có |
 
