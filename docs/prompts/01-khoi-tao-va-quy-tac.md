@@ -50,7 +50,7 @@ Phần thanh toán bị lỗi không thanh toán được hãy kiểm tra lại
 
 Ở phần mục cộng đồng 1 bài viết khi đăng lên thì không thể xóa được, khi muốn sửa nội dung bài đăng thì nó nhảy lên lại chỗ bài viết mới để sửa lại nội dung thì ảnh hưởng đến trải nghiệm sử dụng\. Bên cạnh các tên trên bài viết thì thêm nút theo dõi để có thể theo dõi trực tiếp ngay tại bài đăng còn khi bấm vào tên thì vào trang cá nhân của họ
 
-Mọi sự thay đổi và quyết định đều do bạn quản lí dựa trên tiêu chí tối ưu nhất có thể mà k cần qua trung gian hỏi tôi hay admin Nếu muốn thử các chứng năng trên web thì có thể vào tài khoản admin để thử admin@boai\.vn pass:00000000 sau khi làm xong thì gửi tui check list những gì đã làm và tối ưu, mọi thứ tôi không đề cập mà bạn thấy nó hợp lý và tối ưu hơn thì bạn có quyền chỉnh sửa mà không cần hỏi qua ý kiến chung gian của tôi
+Mọi sự thay đổi và quyết định đều do bạn quản lí dựa trên tiêu chí tối ưu nhất có thể mà k cần qua trung gian hỏi tôi hay admin Nếu muốn thử các chứng năng trên web thì có thể vào tài khoản admin để thử admin@boai\.vn pass:[REDACTED] sau khi làm xong thì gửi tui check list những gì đã làm và tối ưu, mọi thứ tôi không đề cập mà bạn thấy nó hợp lý và tối ưu hơn thì bạn có quyền chỉnh sửa mà không cần hỏi qua ý kiến chung gian của tôi
 
 chức năng tạm dừng hoạt động khi không đủ thông tin đã hoạt động mà khi nhập thôn tin mới thì lưu không được á
 
